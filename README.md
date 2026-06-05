@@ -5,7 +5,7 @@
 
 
 
-The Game is The Game
+The Game is The Game.
 Talk is Cheap, Show me your code 
 
 
